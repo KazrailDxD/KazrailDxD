@@ -1,6 +1,6 @@
 ![Junior Game Development]
 
-# Hi there 👋, I´m Kay Kostolnik
+# Kay Kostolnik
 I´m Kay from Germany, and I do 
 
 ## Skills
