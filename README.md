@@ -1,4 +1,5 @@
-<img src='https://github.com/KazrailDxD/KazrailDxD/blob/main/Banner.jpg' width='2000' height='500'>
+<img src='https://github.com/KazrailDxD/KazrailDxD/blob/main/Banner.jpg' width='1500' height='250'>
+
 # Kay Kostolnik
 I´m Kay from Germany, and I do creating Games. I really enjoy learning languages and creating Games.
 
