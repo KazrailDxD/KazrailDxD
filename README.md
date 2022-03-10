@@ -1,5 +1,4 @@
-(https://github.com/KazrailDxD/KazrailDxD/blob/main/Banner.jpg)
-
+https://github.com/KazrailDxD/KazrailDxD/blob/main/Banner.jpg)
 # Kay Kostolnik
 I´m Kay from Germany, and I do creating Games. I really enjoy learning languages and creating Games.
 
